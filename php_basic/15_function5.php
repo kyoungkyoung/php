@@ -53,7 +53,7 @@ echo '$fn2() = '. $fn2();
 //==========================================
 // $maFonction = function()
 // {
-//   echo 'Hello world !';ㄴ
+//   echo 'Hello world !';
 // };
 
 // var_dump($maFonction); //이 부분에서 클로저 타입이 객체인것을 알수있다.
